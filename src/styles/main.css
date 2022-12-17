@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bgBtn {
+  background: linear-gradient(to right, #705f2e, #8a7a4a, #705f2e);
+}
