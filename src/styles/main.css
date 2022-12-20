@@ -5,3 +5,9 @@
 .bgBtn {
   background: linear-gradient(to right, #705f2e, #8a7a4a, #705f2e);
 }
+.taman {
+  width: 700px;
+}
+.borderTesting {
+  border-bottom: 2px solid #28292b;
+}

@@ -11,6 +11,7 @@ function Header() {
       <p class=" text-textAll p-5 text-lg">Prepare seu esquadrão e lute junto dos Operadores icônicos da Força-Tarefa 141 no retorno de Modern Warfare®.</p>
     </div>
   </div>
+  
   `;
 }
 export default Header;
